@@ -1,6 +1,5 @@
 ---
 title: Welcome to my blog
----
 date: 21/03/2025
 ---
 
